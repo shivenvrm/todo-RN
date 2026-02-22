@@ -1,4 +1,4 @@
-package com.todo
+package com.todo.shiven
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
